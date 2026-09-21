@@ -13,3 +13,8 @@ Problem it solves: Companies deal with huge stacks of invoices. People sometimes
 3. AgriGuard (Crop/Livestock Health)
 Purpose: Looks at photos of crops or animals and tells farmers early if something is wrong.
 *Problem it solves:* Farmers usually notice disease in their crops or animals only after it's already spread and caused real damage, because there's no cheap way to check regularly. Big farms use expensive sensors and hired experts for this — small farms can't. This tool lets a farmer just take a phone photo, and it checks for early signs of disease, tracks it over time per field or animal, and warns them early enough to actually save the crop or animal. 
+
+
+Date:Monday, 21 September 2026
+We are facing many problems to chose the FYP what we should make taking Advise from Ai , checking Previous FYP of MIT etc. 
+Today we will meet our supervisor and place our ideas.. 
